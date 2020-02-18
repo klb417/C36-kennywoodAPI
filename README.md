@@ -7,3 +7,4 @@
 1. Update itineraries, attractions and areas for full CRUD functionality 
    (Use areas as a guide for naming those behaviors in your views)
 1. Test it out in Postman!
+# C36-kennywoodAPI
